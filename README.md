@@ -1,3 +1,5 @@
+![recharts](https://github.com/rakeshkarthik20/third_part_package_recharts_reactjs/assets/119436232/d0ac7be6-26cc-4580-b999-6352849dc38d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
